@@ -9,7 +9,7 @@ I'm passionate about building real-world applications using Java and exploring m
 ### 🔧 Tech Stack
 - ☕ Java, Swing (GUI), Java Sockets
 - 🌐 C, C++, Java, JavaScript
-- 🛠️ MySQL, JDBC
+- 🛠️ MySQL, MngoDB JDBC
 - 🖥️ Git & GitHub, VS Code, IntelliJ IDEA
 
 ---
