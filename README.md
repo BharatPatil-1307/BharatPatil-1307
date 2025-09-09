@@ -35,7 +35,7 @@ I'm passionate about building real-world applications using Java and exploring m
 ### 📬 Let's Connect
 
 - 📧 Email: rp9609717@gmail.com
-- 💼 [LinkedIn (optional)](https://linkedin.com/in/your-link)
+- 💼 [[LinkedIn (optional)](https://linkedin.com/in/your-link)](https://www.linkedin.com/in/bharat-sanjay-patil-23699837a/)
 - 🧠 Portfolio: *(Coming soon)*
 
 ---
