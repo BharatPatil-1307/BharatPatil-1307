@@ -20,8 +20,7 @@ I'm passionate about building real-world applications using Java and exploring m
   [View Repo](https://github.com/BharatPatil-1307/ChatApplication)
 
 - **DataStructureLibrary - DataStructureLibrary is a comprehensive C++ library that provides implementations of commonly used data structures and algorithms, along with an interactive console-based application to demonstrate their functionality. It is designed for students, developers, and professionals to learn, practice, and use standard data structures in C++.
-- 
-  [View Repo](https://github.com/BharatPatil-1307/DataStructureLibrary)
+[View Repo](https://github.com/BharatPatil-1307/DataStructureLibrary)
 
 - More projects coming soon...
 
